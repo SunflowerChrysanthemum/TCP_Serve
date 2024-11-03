@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/app.png</file>
+        <file>image/clear.png</file>
+        <file>image/clear_a.png</file>
+        <file>image/clear_b.png</file>
+        <file>image/clearS.png</file>
+        <file>image/clearS_a.png</file>
+        <file>image/client.png</file>
+        <file>image/close.png</file>
+        <file>image/connect.png</file>
+        <file>image/discon.png</file>
+        <file>image/duan.png</file>
+        <file>image/image.qrc</file>
+        <file>image/ip.png</file>
+        <file>image/net_off.png</file>
+        <file>image/net_on.png</file>
+        <file>image/open.png</file>
+        <file>image/pic.qrc</file>
+        <file>image/send.png</file>
+        <file>image/send_a.png</file>
+        <file>image/server.png</file>
+        <file>image/switch.png</file>
+        <file>image/wifi_off.png</file>
+        <file>image/wifi_on.png</file>
+    </qresource>
+</RCC>

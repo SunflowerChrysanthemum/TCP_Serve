@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>clear.png</file>
+        <file>duan.png</file>
+        <file>net_off.png</file>
+        <file>net_on.png</file>
+        <file>send_a.png</file>
+        <file>send.png</file>
+        <file>clear_a.png</file>
+        <file>clear_b.png</file>
+        <file>close.png</file>
+        <file>open.png</file>
+        <file>wifi_off.png</file>
+        <file>wifi_on.png</file>
+        <file>app.png</file>
+        <file>clearS.png</file>
+        <file>clearS_a.png</file>
+        <file>ip.png</file>
+        <file>switch.png</file>
+        <file>client.png</file>
+        <file>server.png</file>
+        <file>discon.png</file>
+        <file>connect.png</file>
+    </qresource>
+</RCC>
